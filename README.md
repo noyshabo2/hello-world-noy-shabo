@@ -1,2 +1,3 @@
 # hello-world-noy-shabo
-hello-world wix first ripo
+
+my name is noy shabo and i'm developer
